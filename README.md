@@ -2,6 +2,7 @@
 
 ## 🚀 About me
 Hello, I’m Rafael Gallegos, a graduate in Medical Technology, passionate about science and technology. I’m currently exploring the world of web development.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGT)](https://github.com/RafaGGT)
 
 ## 🛠️ My Skills 🛠️
 ### Backend

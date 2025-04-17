@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 Hello, I’m Rafael Gallegos, a graduate in Medical Technology, passionate about science and technology. I’m currently exploring the world of web development.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGT)](https://github.com/RafaGGT)
+
 
 ## 🛠️ My Skills 🛠️
 ### Backend
@@ -23,4 +23,8 @@ Hello, I’m Rafael Gallegos, a graduate in Medical Technology, passionate about
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![iNtelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGT&theme=dark)](https://github.com/RafaGGT)
+
 

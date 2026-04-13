@@ -30,6 +30,5 @@ Hello, I’m Rafael Gallegos, a graduate in Medical Technology, passionate about
 ![iNtelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGT&theme=dark)](https://github.com/RafaGGT)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGT&layout=compact&theme=dark)](https://github.com/RafaGGT)
 

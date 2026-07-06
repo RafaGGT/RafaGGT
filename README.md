@@ -7,7 +7,7 @@ Soy Rafael Gallegos, licenciado en Tecnología Médica y apasionado por la cienc
 ## 🎓 Formación
 
 - 🏫 **Analista Programador** — INACAP (en curso)
-- 🔬 **Titulado en Tecnología Médica**
+- 🔬 **Titulado en Tecnología Médica** — UNAB
 
 ## 📚 Actualmente aprendiendo
 

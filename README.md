@@ -1,9 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:092E20&height=200&section=header&text=Hola,%20soy%20Rafa%20👋&fontSize=40&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaGGT&color=blue&style=for-the-badge" alt="Visitas de perfil" />
-</p>
-
 ## 🚀 Sobre mí
 
 Soy Rafael Gallegos, licenciado en Tecnología Médica y apasionado por la ciencia y la tecnología. Actualmente estoy explorando el mundo del desarrollo web y estudiando **Analista Programador en INACAP**.

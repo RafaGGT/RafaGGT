@@ -46,11 +46,6 @@ Soy Rafael Gallegos, licenciado en Tecnología Médica y apasionado por la cienc
 
 - 🧳 **[Agencia de Viajes Python](https://github.com/RafaGGT/Proyecto-Agencia-de-viajes-Python)** — Sistema de gestión CLI con arquitectura MVC y base de datos MySQL.
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaGGT&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGT&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaGGT&theme=tokyonight)
 
 ## 📫 Contáctame
 

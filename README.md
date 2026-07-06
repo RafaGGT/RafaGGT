@@ -38,10 +38,6 @@ Soy Rafael Gallegos, licenciado en Tecnología Médica y apasionado por la cienc
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📌 Proyectos destacados
-
-- 🧳 **[Agencia de Viajes Python](https://github.com/RafaGGT/Proyecto-Agencia-de-viajes-Python)** — Sistema de gestión CLI con arquitectura MVC y base de datos MySQL.
-
 
 ## 📫 Contáctame
 

@@ -1,26 +1,38 @@
-## Hi im RafaGGT  👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:092E20&height=200&section=header&text=Hola,%20soy%20Rafa%20👋&fontSize=40&fontColor=ffffff)
 
-## 🚀 About me
-Hello, I’m Rafael Gallegos, a graduate in Medical Technology, passionate about science and technology. I’m currently exploring the world of web development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RafaGGT&color=blue&style=for-the-badge" alt="Visitas de perfil" />
+</p>
 
+## 🚀 Sobre mí
 
-## 🛠️ My Skills 🛠️
+Soy Rafael Gallegos, licenciado en Tecnología Médica y apasionado por la ciencia y la tecnología. Actualmente estoy explorando el mundo del desarrollo web y estudiando **Analista Programador en INACAP**.
+
+## 🎓 Formación
+
+- 🏫 **Analista Programador** — INACAP (en curso)
+- 🔬 **Titulado en Tecnología Médica**
+
+## 📚 Actualmente aprendiendo
+
+- Spring Boot avanzado
+- Arquitectura de microservicios
+- Testing con JUnit
+
+## 🛠️ Mis habilidades
 
 ### Backend
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Frontend
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools
-
+### Herramientas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,5 +42,20 @@ Hello, I’m Rafael Gallegos, a graduate in Medical Technology, passionate about
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 📌 Proyectos destacados
 
+- 🧳 **[Agencia de Viajes Python](https://github.com/RafaGGT/Proyecto-Agencia-de-viajes-Python)** — Sistema de gestión CLI con arquitectura MVC y base de datos MySQL.
 
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaGGT&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGT&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaGGT&theme=tokyonight)
+
+## 📫 Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:6DB33F&height=100&section=footer)

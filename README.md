@@ -1,4 +1,4 @@
- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:092E20&height=200&section=header&text=Hola,%20soy%20Rafa%20👋&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:092E20&height=200&section=header&text=Hola,%20soy%20Rafa%20👋&fontSize=40&fontColor=ffffff)
 ## 🚀 Sobre mí
 Soy Rafael Gallegos, licenciado en Tecnología Médica y apasionado por la ciencia y la tecnología. Actualmente estoy explorando el mundo del desarrollo web y estudiando **Analista Programador en INACAP**.
 ## 🎓 Formación
@@ -8,12 +8,14 @@ Soy Rafael Gallegos, licenciado en Tecnología Médica y apasionado por la cienc
 - Spring Boot avanzado
 - Arquitectura de microservicios
 - Testing con JUnit
+- PHP
 ## 🛠️ Mis habilidades
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
